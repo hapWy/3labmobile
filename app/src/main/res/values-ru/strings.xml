@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">Лаба 3</string>
+    <string name="day_prefix">День %d</string>
+    <string name="detail_title_prefix">День %d</string>
+
+    <string name="day1_title">Очистите голову утром</string>
+    <string name="day1_short">Запишите мысли</string>
+    <string name="day1_long">Сразу после пробуждения запишите все мысли, которые приходят в голову. Не редактируйте и не анализируйте — просто пишите. Это помогает разгрузить мозг и начать день спокойнее.</string>
+
+    <string name="day2_title">Делайте мелкие дела сразу</string>
+    <string name="day2_short">Правило одной минуты</string>
+    <string name="day2_long">Если дело занимает меньше минуты — сделайте его сразу. Например: ответить на сообщение, убрать вещь на место или записать задачу.</string>
+
+    <string name="day3_title">Начните с самой сложной задачи</string>
+    <string name="day3_short">Главное дело дня</string>
+    <string name="day3_long">Выберите одну важную задачу и сделайте её первой. Когда самое сложное уже выполнено, день проходит намного легче.</string>
+
+    <string name="day4_title">Работайте по таймеру</string>
+    <string name="day4_short">Метод Помодоро</string>
+    <string name="day4_long">Поставьте таймер на 25 минут и полностью сосредоточьтесь на работе. После этого сделайте перерыв 5 минут.</string>
+
+    <string name="day5_title">Начните привычку с минимума</string>
+    <string name="day5_short">Всего две минуты</string>
+    <string name="day5_long">Новая привычка должна начинаться очень просто. Например: одна страница книги, одно упражнение или одна минута медитации.</string>
+
+    <string name="day6_title">Наведите порядок в телефоне</string>
+    <string name="day6_short">Удалите лишние приложения</string>
+    <string name="day6_long">Удалите приложения, которыми давно не пользуетесь. Чем меньше отвлекающих иконок, тем легче сосредоточиться.</string>
+
+    <string name="day7_title">Подведите итоги недели</string>
+    <string name="day7_short">10 минут анализа</string>
+    <string name="day7_long">Подумайте, что получилось хорошо, а что можно улучшить. Запишите три задачи на следующую неделю.</string>
+
+    <string name="day8_title">Делайте одно дело</string>
+    <string name="day8_short">Без многозадачности</string>
+    <string name="day8_long">Выберите одну задачу и работайте над ней минимум 20 минут, не переключаясь на другие дела.</string>
+
+    <string name="day9_title">Запишите три хороших события</string>
+    <string name="day9_short">Практика благодарности</string>
+    <string name="day9_long">Вечером запишите три вещи, которые сегодня порадовали вас. Это помогает замечать хорошее в обычных днях.</string>
+
+    <string name="day10_title">Найдите своё продуктивное время</string>
+    <string name="day10_short">Наблюдайте за энергией</string>
+    <string name="day10_long">Отмечайте, в какое время дня вам легче всего концентрироваться. Старайтесь планировать важные задачи именно на этот период.</string>
+
+    <string name="day11_title">Не берите телефон утром</string>
+    <string name="day11_short">Первый час без экрана</string>
+    <string name="day11_long">Попробуйте не проверять телефон в течение первого часа после пробуждения. Это помогает начать день спокойнее.</string>
+
+    <string name="day12_title">Группируйте похожие задачи</string>
+    <string name="day12_short">Делайте их вместе</string>
+    <string name="day12_long">Например: ответьте на все письма сразу или сделайте все звонки подряд.</string>
+
+    <string name="day13_title">Потратьте час на обучение</string>
+    <string name="day13_short">Изучите что-то новое</string>
+    <string name="day13_long">Посмотрите обучающее видео, прочитайте главу книги или изучите новый инструмент.</string>
+
+    <string name="day14_title">Сделайте доброе дело</string>
+    <string name="day14_short">Помогите кому-то</string>
+    <string name="day14_long">Это может быть небольшой жест: помочь коллеге, поддержать друга или просто сказать приятные слова.</string>
+
+    <string name="day15_title">Проверьте цели месяца</string>
+    <string name="day15_short">Скорректируйте план</string>
+    <string name="day15_long">Посмотрите на свои цели и подумайте, что стоит изменить или улучшить.</string>
+
+    <string name="day16_title">Запланируйте день по времени</string>
+    <string name="day16_short">Используйте блоки</string>
+    <string name="day16_long">Разделите день на временные блоки: работа, отдых, личные дела.</string>
+
+    <string name="day17_title">Сделайте вечер без экранов</string>
+    <string name="day17_short">Цифровая пауза</string>
+    <string name="day17_long">За час до сна отключите телефон, компьютер и телевизор.</string>
+
+    <string name="day18_title">Прогуляйтесь без телефона</string>
+    <string name="day18_short">20 минут на улице</string>
+    <string name="day18_long">Просто идите и обращайте внимание на окружающий мир.</string>
+
+    <string name="day19_title">Разберите почту</string>
+    <string name="day19_short">Очистите входящие</string>
+    <string name="day19_long">Удалите лишние письма, ответьте на важные и разложите остальные по папкам.</string>
+
+    <string name="day20_title">Записывайте идеи</string>
+    <string name="day20_short">Носите заметки</string>
+    <string name="day20_long">Любая идея может пригодиться позже, поэтому записывайте её сразу.</string>
+
+    <string name="day21_title">Отметьте три успеха</string>
+    <string name="day21_short">Маленькие победы</string>
+    <string name="day21_long">Даже небольшие достижения помогают чувствовать прогресс.</string>
+
+    <string name="day22_title">Уберите рабочее место</string>
+    <string name="day22_short">15 минут порядка</string>
+    <string name="day22_long">Чистый стол помогает лучше концентрироваться.</string>
+
+    <string name="day23_title">Сделайте глубокую работу</string>
+    <string name="day23_short">90 минут концентрации</string>
+    <string name="day23_long">Выберите одну задачу и работайте над ней без отвлечений.</string>
+
+    <string name="day24_title">Скажите «нет» лишним делам</string>
+    <string name="day24_short">Берегите время</string>
+    <string name="day24_long">Иногда отказ помогает сохранить энергию для действительно важных задач.</string>
+
+    <string name="day25_title">Пейте больше воды</string>
+    <string name="day25_short">Следите за гидратацией</string>
+    <string name="day25_long">Держите бутылку воды рядом и регулярно делайте несколько глотков.</string>
+
+    <string name="day26_title">Напишите письмо себе</string>
+    <string name="day26_short">Ваше будущее</string>
+    <string name="day26_long">Опишите, где вы хотите быть через год и чего хотите достичь.</string>
+
+    <string name="day27_title">Ешьте без телефона</string>
+    <string name="day27_short">Осознанный приём пищи</string>
+    <string name="day27_long">Сконцентрируйтесь на вкусе еды и процессе.</string>
+
+    <string name="day28_title">Скажите три комплимента</string>
+    <string name="day28_short">Поднимите настроение</string>
+    <string name="day28_long">Искренний комплимент может сделать чей-то день лучше.</string>
+
+    <string name="day29_title">Подготовьтесь к завтра</string>
+    <string name="day29_short">3 задачи на день</string>
+    <string name="day29_long">Перед сном запишите три главных дела на следующий день.</string>
+
+    <string name="day30_title">Отпразднуйте результат</string>
+    <string name="day30_short">Вы прошли 30 дней</string>
+    <string name="day30_long">Отметьте это достижение: сделайте что-то приятное для себя.</string>
+
+</resources>

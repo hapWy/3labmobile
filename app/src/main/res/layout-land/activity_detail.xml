@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/detail_padding">
+
+        <ImageView
+            android:id="@+id/detailImageView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:maxHeight="@dimen/detail_image_max_height_land"
+            android:scaleType="fitCenter"
+            android:importantForAccessibility="no"
+            android:layout_marginBottom="@dimen/image_bottom_margin_land"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginTop="@dimen/text_top_margin_land">
+
+            <TextView
+                android:id="@+id/detailDayTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/text_size_huge"
+                android:textColor="@color/purple_500"
+                android:textStyle="bold"
+                android:layout_marginBottom="@dimen/small_margin"/>
+
+            <TextView
+                android:id="@+id/detailTitleTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/text_size_xxxlarge"
+                android:textStyle="bold"
+                android:layout_marginBottom="@dimen/medium_margin"/>
+
+            <TextView
+                android:id="@+id/detailLongDescriptionTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/text_size_xxlarge"
+                android:lineSpacingExtra="@dimen/line_spacing_large"/>
+
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>
